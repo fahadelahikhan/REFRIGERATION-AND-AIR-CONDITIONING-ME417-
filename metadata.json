@@ -1,0 +1,6 @@
+{
+  "name": "ME417 RAC Engineering Dashboard",
+  "description": "Interactive thermodynamic simulation and visualization suite for ME417 Refrigeration and Air Conditioning syllabus topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
